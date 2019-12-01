@@ -1,4 +1,4 @@
-import { doHash } from './lib/hash';
+import { doHash } from './lib/hash.js';
 
 let theme = {};
 let globalCSS = '';
